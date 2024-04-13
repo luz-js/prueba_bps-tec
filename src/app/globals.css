@@ -6,3 +6,12 @@ body{
   background-color: #03071e;
 }
 
+.custom-table th {
+  font-size: 18px; /* Tamaño de fuente para los encabezados */
+  font-weight: bold;
+}
+
+.custom-table td {
+  font-size: 15px; /* Tamaño de fuente para las celdas */
+}
+
