@@ -6,19 +6,19 @@
 
 
 **Tecnologías utilizadas:**
-React (Next.js) :fa-check-square:
-Ant Design :fa-check-square:
+- React (Next.js) ✅
+- Ant Design ✅
 
 ------------
 
 **Requerimientos del proyectos (realizados)**
-1. la columna que debe ser editable es la del ORIGEN_ATRIBUTO :fa-check-square:
-1. El ORIGEN_ATRIBUTO = G, indica que es un origen genérico y siempre va acompañado de TIPO_ATRIBUTO = L. Los que son de este tipo son para colocarlos como títulos. :fa-check-square:
-1. ESTADO, solo deben salir los que tengan ESTADO = A. :fa-check-square:
-1. La propiedad TIPO_ATRIBUTO, indica si es un monto(M) o un label (L). :fa-check-square:
-1. El campo SUMAREN indica el campo en el que se debe sumar el dato ingresado, este campo es el ID_ATRIBUTO de donde se debe sumar :fa-check-square:
+1. la columna que debe ser editable es la del ORIGEN_ATRIBUTO ✅
+1. El ORIGEN_ATRIBUTO = G, indica que es un origen genérico y siempre va acompañado de TIPO_ATRIBUTO = L. Los que son de este tipo son para colocarlos como títulos. ✅
+1. ESTADO, solo deben salir los que tengan ESTADO = A. ✅
+1. La propiedad TIPO_ATRIBUTO, indica si es un monto(M) o un label (L). ✅
+1. El campo SUMAREN indica el campo en el que se debe sumar el dato ingresado, este campo es el ID_ATRIBUTO de donde se debe sumar ✅
 
-> **SE UTILIZÓ LA DATA EXACTA DEL DOCUMENTO **
+> ✅ **SE UTILIZÓ LA DATA EXACTA DEL DOCUMENTO ** ✅
 
 
 ```bash
