@@ -1,9 +1,10 @@
 # PRUEBA TÉCNICA DE BPS&TEC
 
 ------------
-##### URL del sitio web desplegado:
+##### URL del sitio web desplegado: https://prueba-bps-tec.vercel.app/ 
 ------------
 
+[![Captura-de-Pantalla-2024-04-13-a-la-s-2-43-09-a-m.png](https://i.postimg.cc/63MFrJg0/Captura-de-Pantalla-2024-04-13-a-la-s-2-43-09-a-m.png)](https://postimg.cc/WFJ9VK2F)
 
 **Tecnologías utilizadas:**
 - React (Next.js) ✅
