@@ -6,8 +6,8 @@
 
 
 **Tecnologías utilizadas:**
-- React (Next.js) :fa-check-square:
-- Ant Design :fa-check-square:
+React (Next.js) :fa-check-square:
+Ant Design :fa-check-square:
 
 ------------
 
