@@ -1,18 +1,18 @@
 # PRUEBA TÉCNICA DE BPS&TEC
 
 ------------
-##### URL del sitio web desplegado: https://prueba-bps-tec.vercel.app/ 
+##### URL del sitio web desplegado: https://prueba-bps-tec.vercel.app/  ⚠️ POR FAVOR ABRIR DESDE UNA COMPUTADORA, NO ES MOBILE RESPONSIVE ⚠️
 ------------
 
 [![Captura-de-Pantalla-2024-04-13-a-la-s-2-43-09-a-m.png](https://i.postimg.cc/63MFrJg0/Captura-de-Pantalla-2024-04-13-a-la-s-2-43-09-a-m.png)](https://postimg.cc/WFJ9VK2F)
 
-**Tecnologías utilizadas:**
+❕ **Tecnologías utilizadas:** ❕
 - React (Next.js) ✅
 - Ant Design ✅
 
 ------------
 
-**Requerimientos del proyectos (realizados)**
+❕ **Requerimientos del proyectos (realizados)** ❕
 1. la columna que debe ser editable es la del ORIGEN_ATRIBUTO ✅
 1. El ORIGEN_ATRIBUTO = G, indica que es un origen genérico y siempre va acompañado de TIPO_ATRIBUTO = L. Los que son de este tipo son para colocarlos como títulos. ✅
 1. ESTADO, solo deben salir los que tengan ESTADO = A. ✅
