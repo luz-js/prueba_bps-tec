@@ -57,4 +57,8 @@ const spanStyle: React.CSSProperties = {
     color: 'green'
 };
 
-export {headStyle, headerStyle, contentStyle, footerStyle, layoutStyle, inputsStyle, monedaStyle, spanStyle, generalSpan};
+const titleMainLayout: React.CSSProperties = { 
+    color: '#fff', 
+    marginTop: '1%' 
+};
+export {headStyle, headerStyle, contentStyle, footerStyle, layoutStyle, inputsStyle, monedaStyle, spanStyle, generalSpan, titleMainLayout};
